@@ -1,3 +1,9 @@
+# Что было выполнено в проекте?
+Этот проект отображает JSON в динамичной таблице:
+* Если кликнуть на заголовки (id, title, description, author) таблицы происходит сортировка
+* Можно отфильтровать по автору 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -50,7 +56,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
-
+allback(
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App

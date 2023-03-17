@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "title": "Blonde - Widespread Acclaim",
+      "description": "Blonde received widespread acclaim, with critics praising Ocean's introspective lyrics and the album's",
+      "author": "GIRLS TRENDS",
+      "id": 10
+    },
+    {
+      "title": "React - Js library",
+      "description": "The most popular JS framework to build UI",
+      "author": "Sara King",
+      "id": 5
+    },
+    {
+      "title": "The Language Of Gris: Comples Beauty Of Monochrome",
+      "description": "The interior concept was conceived of by Dutch archtitect Studio Anne Holtrop who cleverly emulated",
+      "author": "Bill Smith",
+      "id": 3
+    },
+    {
+      "title": "How 2020 Changed Understanding Of Mental Health",
+      "description": "Time is defines ad the indefinete continued progress, with critics praising Ocean's introspective lyrics and the album's",
+      "author": "Jim Kerry",
+      "id": 20
+    },
+    {
+      "title": "hhhrhrrhrh",
+      "description": "Time is defines ad the indefinete continued progress, with critics praising Ocean's introspective lyrics and the album's",
+      "author": "Jim Kerry",
+      "id": 14
+    }
+  ]
+}
